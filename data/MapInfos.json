@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"City","order":1,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":2,"expanded":true,"name":"Shop","order":2,"parentId":1,"scrollX":0,"scrollY":0,"quick":false},
+{"id":3,"expanded":true,"name":"Lab Room 1","order":3,"parentId":1,"scrollX":0,"scrollY":0,"quick":false},
+{"id":4,"expanded":true,"name":"Lab Room Left 1","order":4,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
+{"id":5,"expanded":false,"name":"Lab Room Left 2","order":5,"parentId":4,"scrollX":0,"scrollY":0,"quick":false},
+{"id":6,"expanded":true,"name":"Lab Room Right 1","order":6,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
+{"id":7,"expanded":false,"name":"Lab Room Right 2","order":7,"parentId":6,"scrollX":0,"scrollY":0,"quick":false},
+{"id":8,"expanded":true,"name":"Lab Room Up 1","order":8,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
+{"id":9,"expanded":false,"name":"Lab Room Up 2","order":9,"parentId":8,"scrollX":0,"scrollY":0,"quick":false}
+]
