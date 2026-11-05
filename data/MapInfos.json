@@ -7,6 +7,6 @@ null,
 {"id":5,"expanded":false,"name":"Lab Room Left 2","order":5,"parentId":4,"scrollX":0,"scrollY":0,"quick":false},
 {"id":6,"expanded":true,"name":"Lab Room Right 1","order":6,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
 {"id":7,"expanded":false,"name":"Lab Room Right 2","order":7,"parentId":6,"scrollX":0,"scrollY":0,"quick":false},
-{"id":8,"expanded":true,"name":"Lab Room Up 1","order":8,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
+{"id":8,"expanded":false,"name":"Lab Room Up 1","order":8,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
 {"id":9,"expanded":false,"name":"Lab Room Up 2","order":9,"parentId":8,"scrollX":0,"scrollY":0,"quick":false}
 ]
